@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <OfficeApp xmlns="http://schemas.microsoft.com/office/appforoffice/1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:bt="http://schemas.microsoft.com/office/officeappbasictypes/1.0" xmlns:ov="http://schemas.microsoft.com/office/taskpaneappversionoverrides" xsi:type="TaskPaneApp">
-  <Id>580d35ef-c9cd-45b6-b20a-0b97511ae1e6</Id>
+  <Id>580d35ef-c9cd-45b6-b20a-0b97511ae1e9</Id>
   <Version>1.0.0.0</Version>
   <ProviderName>Contoso</ProviderName>
   <DefaultLocale>en-US</DefaultLocale>
-  <DisplayName DefaultValue="Shape Dashboard"/>
-  <Description DefaultValue="This sample add-in shows how to use shapes to build a dashboard in Excel."/>
+  <DisplayName DefaultValue="UsingChartAPIAnalysisData"/>
+  <Description DefaultValue="The sample add-in showcases capabilities for using chart API to analyze data"/>
   <IconUrl DefaultValue="https://localhost:3000/assets/icon-32.png"/>
   <HighResolutionIconUrl DefaultValue="https://localhost:3000/assets/icon-64.png"/>
   <SupportUrl DefaultValue="https://www.contoso.com/help"/>
